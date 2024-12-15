@@ -7,46 +7,46 @@
 	"endpoints": [
 		{
 			"bindings": ["public"],
-			"created_at": "2024-12-12T17:31:29Z",
-			"hostport": "35f799916129.ngrok.paid:443",
-			"id": "ep_2q7rw6YHYSQHhZkn7kX56Ec79lB",
+			"created_at": "2024-12-15T10:06:22Z",
+			"hostport": "a947de592b4e.ngrok.paid:443",
+			"id": "ep_2qFTAoMIQgJPDlVEWP7T9K64huf",
 			"name": "command_line",
 			"principal": {
-				"id": "usr_2q7rtXPbYhZunLyMXTLzwJhCFqx",
+				"id": "usr_2qFT8GpUgYQJp9gKfXJkK1f2Gxn",
 				"uri": ""
 			},
 			"proto": "https",
-			"public_url": "https://35f799916129.ngrok.paid",
+			"public_url": "https://a947de592b4e.ngrok.paid",
 			"tunnel": {
-				"id": "tn_2q7rw6YHYSQHhZkn7kX56Ec79lB",
-				"uri": "https://api.ngrok.com/tunnels/tn_2q7rw6YHYSQHhZkn7kX56Ec79lB"
+				"id": "tn_2qFTAoMIQgJPDlVEWP7T9K64huf",
+				"uri": "https://api.ngrok.com/tunnels/tn_2qFTAoMIQgJPDlVEWP7T9K64huf"
 			},
 			"tunnel_session": {
-				"id": "ts_2q7rw7WoeojVwWS98zx7JgZ4KAD",
-				"uri": "https://api.ngrok.com/tunnel_sessions/ts_2q7rw7WoeojVwWS98zx7JgZ4KAD"
+				"id": "ts_2qFTApVq29qe0J46u0kWft3p5P9",
+				"uri": "https://api.ngrok.com/tunnel_sessions/ts_2qFTApVq29qe0J46u0kWft3p5P9"
 			},
 			"type": "ephemeral",
-			"updated_at": "2024-12-12T17:31:29Z",
+			"updated_at": "2024-12-15T10:06:22Z",
 			"upstream_url": "http://localhost:80",
-			"url": "https://35f799916129.ngrok.paid"
+			"url": "https://a947de592b4e.ngrok.paid"
 		},
 		{
 			"bindings": ["public"],
-			"created_at": "2024-12-12T17:31:26Z",
+			"created_at": "2024-12-15T10:06:19Z",
 			"domain": {
-				"id": "rd_2q7rvd2zvaRh4PX5ghjJ8DYZVzJ",
-				"uri": "https://api.ngrok.com/reserved_domains/rd_2q7rvd2zvaRh4PX5ghjJ8DYZVzJ"
+				"id": "rd_2qFTATjc9KzhBbzNbXwaN7tWP8r",
+				"uri": "https://api.ngrok.com/reserved_domains/rd_2qFTATjc9KzhBbzNbXwaN7tWP8r"
 			},
 			"edge": {
-				"id": "edgtls_2q7rvWjUw5fYjgT0jnw2R7yVfXi",
-				"uri": "https://api.ngrok.com/edges/tls/edgtls_2q7rvWjUw5fYjgT0jnw2R7yVfXi"
+				"id": "edgtls_2qFTARRKxHDXmYwyXLfBMtVQowP",
+				"uri": "https://api.ngrok.com/edges/tls/edgtls_2qFTARRKxHDXmYwyXLfBMtVQowP"
 			},
 			"hostport": "endpoint-example2.com:443",
-			"id": "ep_2q7rvcvQ3y5dzGjoC9D1GwmQhEv",
+			"id": "ep_2qFTAU9dHtfEHWOilfKxjx9seUd",
 			"proto": "tls",
 			"public_url": "tls://endpoint-example2.com",
 			"type": "edge",
-			"updated_at": "2024-12-12T17:31:26Z"
+			"updated_at": "2024-12-15T10:06:19Z"
 		}
 	],
 	"next_page_uri": null,
